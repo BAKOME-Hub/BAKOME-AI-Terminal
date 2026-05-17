@@ -1,6 +1,6 @@
 {
   "project": "BAKOME-AI-Terminal",
-  "description": "Next-generation MQL5 Expert Advisor fusing ICT concepts, Kalman filter, and neural AI for high-precision XAUUSD signals. Includes DOM, Footprint Charts, 28-pair scanner, and BackTest 2 Max. Built entirely on a Pixel 4a 5G.",
+  "description": "Next-gen MQL5 EA fusing ICT, Kalman filter & neural AI for XAUUSD signals. Built on a Pixel 4a 5G.",
   "funding": {
     "crypto": {
       "BTC": "bc1qhtjp3qpqru4vuqd355dfcn46mqjrlpdfmngk6u0",
@@ -12,8 +12,7 @@
     "github_sponsors": "https://github.com/sponsors/BAKOME-Hub"
   },
   "contact": {
-    "github": "https://github.com/BAKOME-Hub",
-    "repository": "https://github.com/BAKOME-Hub/BAKOME-AI-Terminal"
+    "github": "https://github.com/BAKOME-Hub"
   },
   "author": "BAKOME",
   "license": "MIT"
