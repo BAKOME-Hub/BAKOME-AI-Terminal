@@ -1,19 +1,8 @@
+// Fichier: FUNDING.json
 {
-  "project": "BAKOME-AI-Terminal",
-  "description": "Next-gen MQL5 EA fusing ICT, Kalman filter & neural AI for XAUUSD signals. Built on a Pixel 4a 5G.",
-  "funding": {
-    "crypto": {
-      "BTC": "bc1qhtjp3qpqru4vuqd355dfcn46mqjrlpdfmngk6u0",
-      "ETH": "0x2fD73626714d9e37EA464109F8eCeA2CA5401062",
-      "SOL": "3CfhghA7hSNPBbd1RME5rRDm5UUeesTq9NKTcyzZdkz4",
-      "USDT_TRC20": "THkLdiKsmscJFwBPA4tpWeAn1xVw7DTKxq"
-    },
-    "drips": "https://app.drips.network/projects/BAKOME-Hub/BAKOME_Ultimate_Telegram_Bot",
-    "github_sponsors": "https://github.com/sponsors/BAKOME-Hub"
-  },
-  "contact": {
-    "github": "https://github.com/BAKOME-Hub"
-  },
-  "author": "BAKOME",
-  "license": "MIT"
+  "drips": {
+    "ethereum": {
+      "ownedBy": "0x2fD73626714d9e37EA464109F8eCeA2CA5401062"
+    }
+  }
 }
