@@ -44,7 +44,6 @@ Chaque don, même modeste, aide à payer les licences et les données.
 
 **BAKOME**  
 Founder of **BAKOME_Hub** – Open Source, AI, Trading & Blockchain  
-📍 Goma, Democratic Republic of the Congo  
 🌐 [https://github.com/BAKOME-Hub](https://github.com/BAKOME-Hub)
 
 ---
